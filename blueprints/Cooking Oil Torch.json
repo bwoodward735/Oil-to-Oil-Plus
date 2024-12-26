@@ -1,0 +1,24 @@
+{
+    "Name": "Cooking Oil Torch",
+    "RequiredGear":[{"Item":"GEAR_Stick","Count":3}, {"Item":"GEAR_Cloth","Count":1}],
+        "RequiredLiquid": [
+            {
+                "Liquid"        : "LIQUID_CookingOil",
+                "VolumeInLitres": 0.15
+            }
+        ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Torch",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 15,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+	"CanIncreaseRepairSkill": false
+}

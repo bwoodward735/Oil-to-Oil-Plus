@@ -1,0 +1,21 @@
+{
+    "Name": "Animal Fat Torch",
+    "RequiredGear":[
+		{"Item":"GEAR_Stick","Count":3}, 
+		{"Item":"GEAR_Cloth","Count":1}, 
+		{"Item":"GEAR_AnimalFat","Count":1,"Quantity":0.2, "Units": "Kilograms"}],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Torch",
+    "CraftedResultCount": 1,
+    "DurationMinutes": 20,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+	"CanIncreaseRepairSkill": false
+}

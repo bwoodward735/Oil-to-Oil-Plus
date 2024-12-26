@@ -1,0 +1,24 @@
+{
+    "Name": "Cooking Oil Torch Bundle",
+    "RequiredGear":[{"Item":"GEAR_Stick","Count":18}, {"Item":"GEAR_Cloth","Count":6}],
+	 "RequiredLiquid": [
+            {
+                "Liquid"        : "LIQUID_CookingOil",
+                "VolumeInLitres": 0.75
+            }
+        ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_Torch",
+    "CraftedResultCount": 6,
+    "DurationMinutes": 90,
+    "CraftingAudio": "",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+	"CanIncreaseRepairSkill": false
+}

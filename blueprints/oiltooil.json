@@ -1,0 +1,24 @@
+{
+    "Name": "Lamp Oil",
+    "RequiredGear":[{"Item":"GEAR_Accelerant","Count":1}],
+		 "RequiredLiquid": [
+            {
+                "Liquid"        : "LIQUID_CookingOil",
+                "VolumeInLitres": 1.0
+            }
+        ],
+    "KeroseneLitersRequired": 0,
+    "GunpowderRequired": 0,
+    "RequiredTool": "",
+    "OptionalTools": [],
+    "RequiredCraftingLocation": "Anywhere",
+    "RequiresLitFire": false,
+    "RequiresLight": true,
+    "CraftedResult": "GEAR_LampFuelFull",
+    "CraftedResultCount": 2,
+    "DurationMinutes": 30,
+    "CraftingAudio": "Play_WaterPurification",
+    "AppliedSkill" : "None",
+    "ImprovedSkill" : "None",
+	"CanIncreaseRepairSkill": false
+}
