@@ -8,3 +8,6 @@ Also includes torch recipes using cooking oil (one torch, or a bundle of 6) and 
 
 ## Installation
 Drop the modcomponent file into Mods.
+
+## Future Plans
+* Having crafted lamp fuel move into existing containers, instead of just making 2 cans.
