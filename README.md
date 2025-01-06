@@ -6,7 +6,7 @@
 
 | Version | Downloads | License | Contributors |
 | :-----: | :-------: | :-----: | :-----------: |
-| ![](https://img.shields.io/github/v/release/bwoodward735/Oil-to-Oil-Plus?sort=semver&display_name=release&style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbwoodward735%2Oil-to-Oil-Plus%2Freleases%2Flatest) | ![](https://img.shields.io/github/downloads/bwoodward735/Oil-to-Oil-Plus/total?style=for-the-badge) | ![](https://img.shields.io/github/license/bwoodward735/Oil-to-Oil-Plus) | ![](https://img.shields.io/github/contributors/bwoodward735/Oil-to-Oil-Plus?style=for-the-badge) |
+| ![](https://img.shields.io/github/v/release/bwoodward735/Oil-to-Oil-Plus?sort=semver&display_name=release&style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fbwoodward735%2Oil-to-Oil-Plus%2Freleases%2Flatest) | ![](https://img.shields.io/github/downloads/bwoodward735/Oil-to-Oil-Plus/total?style=for-the-badge) | ![](https://img.shields.io/github/license/bwoodward735/Oil-to-Oil-Plus?style=for-the-badge) | ![](https://img.shields.io/github/contributors/bwoodward735/Oil-to-Oil-Plus?style=for-the-badge) |
 
 </div>
 
